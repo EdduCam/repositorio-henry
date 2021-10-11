@@ -1,0 +1,16 @@
+for: En español (para), se utiliza a la hora de llevar a cabo un bucle, a partir de una variable dada y
+una o más condiciones  para que este termine su operación y no se quede en (valga la redundancia)
+bucle. Además también tiene un "paso", que determina que la variable se repita concecutivamente
+hasta cumplir la condicón que lo frene.
+
+Los operadores lógicos:
+
+&& = Es aquel que se usa para unir o añadir una condición extra a un if, para determinar una variable
+booleana. si sólouna es falsa devolverá una variable booleana negativa.
+
+|| = Este operador dentro de un if al igual que el anterior propone una o más condiciones y las mide a
+modo que si almenos una es cierta devolverá un valor booleano de verdadero o true, para que
+devuelva uno falso todas las condiciones han de ser falsas.
+
+! = se refiere a "No", y transforma una condición verdadera en una falsa, y viceversa, si hay dos la
+condición será la misma, y así intercalandose entre en número de '!' pares e impares.
