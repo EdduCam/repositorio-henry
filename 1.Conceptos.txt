@@ -1,0 +1,24 @@
+Variables: Las variables son aquellos símbolos o representaciones de otra cosa, pudiendo ser esta
+'cosa' un número, o un objeto, las variables son habitualmente representadas por letras.
+
+Strings: es una palabra en inglés que significa 'instrumentos de cuerda', pero al progamar no usamos
+los strings para hacer música, los usamos para crear cadenas de texto, escritas siempre entre
+comillas para que la terminal o el lugar donde estemos programando no se enrede con esos srtings.
+
+Funciones(argumentos, return): Las funciones son ecuaciones que en matemática contienen en
+principio una variable, y en programación son usadas de manera similar a modo que a trvés de 
+diversas variables se generen resultados o procesos similares al aplicar una función. 
+
+-Argumentos: Este tipo de funciones describen diversas formas de requerir un tipo de variable,
+a partir de un criterio expuesto en la función.
+
+-Para el 'return', se dará una función y apartir de ella se retornará uno o más valores obtenidos
+teniendo en cuenta una serie de condiciones.
+
+Declaraciones if: Es una de las condiciones anteriormente mencionadas, tomando de ejemplo que
+se nos mostrará como resultado o acceso a una acción si un valor es verdadero o no se mostrará
+si este da como resultado falso, ya que el if traduce 'sí', Ejemplo: Si el puntaje está arriba de 3 puede
+pasar, si no no pasará.
+
+Valores booleanos: Son aquellos que determinan unafuncióin como verdadera o falsa, así mismo
+true(verdadero) y false(falso) son los valores booleanos más trabajados.
